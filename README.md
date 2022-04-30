@@ -1,1 +1,1 @@
-# Thai Senti
+# Thai Sentime
