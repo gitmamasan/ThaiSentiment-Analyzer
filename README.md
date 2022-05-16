@@ -1,1 +1,1 @@
-# Thai Sentiment Analyzer [ThaiSenti
+# Thai Sentiment Analyzer [ThaiSentime
