@@ -1,3 +1,3 @@
 # Thai Sentiment Analyzer [ThaiSentiment-Analyzer]
 
- [![nuget](https://img.shields.
+ [![nuget](https://img.shields.i
