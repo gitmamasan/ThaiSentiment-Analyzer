@@ -4,4 +4,4 @@
 
 https://www.nuget.org/packages/ThaiSentiment-Analyzer/
 
-This is a lib
+This is a libr
