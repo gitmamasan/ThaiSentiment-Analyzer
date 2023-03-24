@@ -4,4 +4,4 @@
 
 https://www.nuget.org/packages/ThaiSentiment-Analyzer/
 
-This is a library tool to assist in dete
+This is a library tool to assist in detec
