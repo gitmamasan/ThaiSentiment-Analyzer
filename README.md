@@ -4,4 +4,4 @@
 
 https://www.nuget.org/packages/ThaiSentiment-Analyzer/
 
-This is a library tool to assist in detecting sentiment in Thai messages (positive, nega
+This is a library tool to assist in detecting sentiment in Thai messages (positive, negat
