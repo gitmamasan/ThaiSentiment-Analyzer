@@ -4,4 +4,4 @@
 
 https://www.nuget.org/packages/ThaiSentiment-Analyzer/
 
-This is a library tool to assist in detecting sentiment in Thai messages (positive, negative). It was developed by gitmamasan in C# .NET Core 3.1 and works on Windows, macOS, and Linux. It can be used in all types of applications without calling web services. It is a Nuget package
+This is a library tool to assist in detecting sentiment in Thai messages (positive, negative). It was developed by gitmamasan in C# .NET Core 3.1 and works on Windows, macOS, and Linux. It can be used in all types of applications without calling web services. It is a Nuget package t
