@@ -6,4 +6,4 @@ https://www.nuget.org/packages/ThaiSentiment-Analyzer/
 
 This is a library tool to assist in detecting sentiment in Thai messages (positive, negative). It was developed by gitmamasan in C# .NET Core 3.1 and works on Windows, macOS, and Linux. It can be used in all types of applications without calling web services. It is a Nuget package that can be embedded in your app for offline use. Easy to use with a single line of code, it works with C#, F#, VB.NET, and all .NET languages that support the ML.NET library (.NET Standard 2.0). It has 90% accuracy because it trains the Machine learning model with a Thai language dataset. The text varies between praise and insults, and there are more than ten thousand texts, including both short and long sentences in various forms, collected from various sources.
 
-For installation and usage details, please refer to the reposi
+For installation and usage details, please refer to the reposito
