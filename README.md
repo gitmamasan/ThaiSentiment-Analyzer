@@ -8,4 +8,4 @@ This is a library tool to assist in detecting sentiment in Thai messages (positi
 
 For installation and usage details, please refer to the repository.
 
-Nuget : https://www.nu
+Nuget : https://www.nuge
